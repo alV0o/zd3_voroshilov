@@ -1,0 +1,16 @@
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\bin\Debug\net8.0-windows\zd3_voroshilov_a.exe
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\bin\Debug\net8.0-windows\zd3_voroshilov_a.deps.json
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\bin\Debug\net8.0-windows\zd3_voroshilov_a.runtimeconfig.json
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\bin\Debug\net8.0-windows\zd3_voroshilov_a.dll
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\bin\Debug\net8.0-windows\zd3_voroshilov_a.pdb
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.Form1.resources
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.csproj.GenerateResource.cache
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.AssemblyInfoInputs.cache
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.AssemblyInfo.cs
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.csproj.CoreCompileInputs.cache
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.dll
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\refint\zd3_voroshilov_a.dll
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.pdb
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\zd3_voroshilov_a.genruntimeconfig.cache
+D:\ДЗ\Алгоритмизация\zd3_voroshilov_a\zd3_voroshilov_a\obj\Debug\net8.0-windows\ref\zd3_voroshilov_a.dll
